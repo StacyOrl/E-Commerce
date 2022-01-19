@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="courses">Courses</string>
+    <string name="app">App</string>
+    <string name="filter">filter</string>
+    <string name="item">item</string>
+    <string name="java_name">java_name</string>
+    <string name="start_date">Старт обучения</string>
+    <string name="думуд">Уровень</string>
+    <string name="e_commerce">E-Commerce</string>
+
+</resources>
